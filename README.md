@@ -52,7 +52,7 @@ Introducing a **robust API** for Telegram Music Bots that allows **audio & video
 
 🔑 API Access Key
 
-MSG ME [𝐀𝐏𝐈 𝐚𝐧𝐝 𝐩𝐫𝐨𝐦𝐨𝐭𝐢𝐨𝐧](https://t.me/SID_ELITE)
+MSG ME [𝐀𝐏𝐈 𝐚𝐧𝐝 𝐩𝐫𝐨𝐦𝐨𝐭𝐢𝐨𝐧](https://t.me/Adityaji3)
 
 > Free for limited users.
 Share feedback and get 1 Month FREE access!
